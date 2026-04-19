@@ -1,0 +1,429 @@
+追記「モンスターエナジーの危険性」 完全ソースリスト
+以下、先ほどの長文追記で用いた情報源を、各章ごとの用途と共にフル記述します。URLはハイパーリンクではなくプレーンテキストで示します。
+
+A. ベース資料(ユーザー提供)
+『モンスターエナジーの健康被害と危険性.txt』
+
+ファイルURL: https://www.genspark.ai/api/files/s/9g372B8N
+インデックス(compact JSON): https://www.genspark.ai/api/files/s/hBh0tvHk
+用途: 序章、全体の既存論点との差分設計
+『モンスターエナジーの健康被害と危険性　追記.txt』
+
+ファイルURL: https://www.genspark.ai/api/files/s/BQJnRUeJ
+インデックス(compact JSON): https://www.genspark.ai/api/files/s/6AUTvY3u
+用途: 序章、全体の既存論点との差分設計
+B. 査読付き一次文献(ピアレビュー論文)
+B-1. タウリンと白血病(第3章)
+Sharma, S., et al. "Taurine from tumour niche drives glycolysis to promote leukaemogenesis."
+
+媒体: Nature, 644(8075):263-272
+公開日: 2025年5月14日オンライン / 2025年8月誌面
+DOI: 10.1038/s41586-025-09018-7
+URL: https://www.nature.com/articles/s41586-025-09018-7
+用途: タウリン―TAUT―mTORC1―解糖系経路、SLC6A6、AML予後、ベネトクラクス耐性との関連
+"Energizing leukaemia" (Research Highlight)
+
+媒体: Nature Reviews Cancer
+DOI: 10.1038/s41568-025-00842-7
+URL: https://www.nature.com/articles/s41568-025-00842-7
+用途: 第3章の補強解説
+B-2. 脳血流とカフェイン(第2章)
+Mahroo, A., et al. "New physiological insights using multi-TE ASL MRI measuring blood-brain barrier water exchange after caffeine intake."
+
+媒体: Magnetic Resonance Materials in Physics, Biology and Medicine(Springer)
+公開年: 2025
+DOI: 10.1007/s10334-024-01219-x
+URL: https://link.springer.com/article/10.1007/s10334-024-01219-x
+用途: 脳血流26%低下、BBB水交換亢進、アデノシン受容体拮抗作用
+Nicholls, J.K., et al. "Pulsation of brain tissue increases in response to caffeine: A pilot healthy volunteer study."
+
+媒体: University of Leicester Research Repository (figshare)
+公開年: 2025
+URL: https://figshare.le.ac.uk/articles/journal_contribution/Pulsation_of_brain_tissue_increases_in_response_to_caffeine_A_pilot_healthy_volunteer_study_/30932525/1/files/60805876.pdf
+用途: 第2章の補足(カフェインと脳組織の挙動)
+B-3. CYP1A2遺伝子多型(第1章)
+Popa, L.C., et al. "CYP1A2 rs762551 Modulates the Effect of Caffeine on Metabolic Parameters."
+
+媒体: Nutrients, 17(14):2288
+公開年: 2025
+DOI: 10.3390/nu17142288
+URL: https://www.mdpi.com/2072-6643/17/14/2288
+用途: AA型=速代謝、AC/CC型=遅代謝、コレステロールと空腹時血糖との関連
+Farinetti, A., et al. "Caffeine and cardiovascular aging: exploring sex-specific and genotype-based differences."
+
+媒体: PMC(PubMed Central)
+公開年: 2025
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12411768/
+用途: カフェインと心血管老化・遺伝子型依存性
+"Caffeine as a cardiovascular protective agent."
+
+媒体: European Journal of Medical Research(Springer)
+公開年: 2026
+DOI: 10.1186/s40001-026-04089-2
+URL: https://link.springer.com/article/10.1186/s40001-026-04089-2
+用途: CYP1A2-163C>A多型、95%以上のカフェイン代謝を担う肝酵素の解説
+Messenburger, G.P., et al. "Influence of the CYP1A2 genotype on the exercise performance of athletes and physically active individuals with caffeine."
+
+媒体: ScienceDirect
+公開年: 2025
+URL: https://www.sciencedirect.com/science/article/abs/pii/S0271531725001319
+用途: 運動パフォーマンスへの遺伝子型影響
+Guessous, I., et al. "Caffeine intake and CYP1A2 variants associated with high caffeine intake protect non-smokers from hypertension."
+
+媒体: Human Molecular Genetics(OUP), 21(14):3283
+公開年: 2012(背景文献)
+URL: https://academic.oup.com/hmg/article/21/14/3283/2385718
+"Genotype-Dependent Cardiac Responses to Caffeine."
+
+媒体: Liberty University Digital Commons Research Symposium
+URL: https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=3079&context=research_symp
+用途: CYP1A2多型と心筋梗塞リスク
+B-4. 骨代謝・骨粗鬆症(第4章)
+"Caffeine consumption as a potential risk factor of osteoporosis: A systematic literature review."
+
+媒体: International Journal of Occupational Medicine and Environmental Health, 38(6):474(PMC12658969)
+公開年: 2025
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12658969/
+用途: 尿中Ca排泄亢進、破骨/骨芽細胞への高用量カフェイン影響、夜勤労働者と骨密度
+"Association between Energy Drinks, Blood Pressure, and Bone Health."
+
+媒体: Springer(Journal of the Indian Society of Periodontology系列)
+公開年: 2026
+DOI: 10.1007/s44411-026-00561-x
+URL: https://link.springer.com/article/10.1007/s44411-026-00561-x
+"Caffeine intake is inversely associated with osteoporosis risk based on NHANES and Mendelian randomization."
+
+媒体: Scientific Reports(Nature)
+公開年: 2025
+DOI: 10.1038/s41598-025-07916-4
+URL: https://www.nature.com/articles/s41598-025-07916-4
+"How Coffee and Tea Consumption May Impact Bone Mineral Density."
+
+媒体: MDPI Sciforum Blog
+公開日: 2025年12月24日
+URL: https://mdpiblog.wordpress.sciforum.net/2025/12/24/beverage-intake-affecting-bone-mineral-density/
+B-5. 甲状腺・精巣(第5章)
+"Pathological Effects on the Thyroid and Testes Induced by Prolonged Consumption of Caffeinated Energy Drinks in Adolescent Wistar Rats."
+媒体: Current Nutrition & Food Science(Bentham Science)
+受理: 2025年9月5日 / オンライン公開: 2026年1月12日
+DOI: 10.2174/0115734013419276251024043538
+URL: https://www.benthamdirect.com/content/journals/cnf/10.2174/0115734013419276251024043538
+用途: TSH低下、T3/T4上昇、FSH/LH低下、組織病理学的変化
+B-6. 腎臓急性障害の症例報告(第7章)
+"Energy drink-induced acute kidney injury: a case report and review of the literature."
+媒体: Journal of Medical Case Reports(Springer)
+公開年: 2025
+DOI: 10.1186/s13256-025-05614-3
+URL: https://link.springer.com/article/10.1186/s13256-025-05614-3
+用途: トルコ人21歳男性、毎日2L×1ヶ月、血清クレアチニン10.32 mg/dL、ステージ3 AKI
+B-7. eスポーツ広告分析(第9章)
+"Gaming for fuel: A content analysis of energy drink advertising in esports."
+
+媒体: Performance Enhancement & Health(ScienceDirect)
+公開年: 2025
+URL: https://www.sciencedirect.com/science/article/pii/S2211266925000349
+用途: 51広告分析、84% trendy/cool訴求、100%周辺経路、0%水分補給・カフェイン量言及
+ResearchGate版同論文
+
+URL: https://www.researchgate.net/publication/396060242_Gaming_for_fuel_A_content_analysis_of_energy_drink_advertising_in_esports
+B-8. 若年層マーケティング・消費社会学(第10章)
+"A Mixed Method Study Exploring Children and Young People's Perceptions of Energy Drinks."
+媒体: Journal of Human Nutrition and Dietetics(Wiley)
+DOI: 10.1111/jhn.70140
+URL: https://onlinelibrary.wiley.com/doi/full/10.1111/jhn.70140
+用途: 英国の子ども・若者のED消費、ピアプレッシャー、Prime/Logan Paul/KSI、ブラックマーケット転売
+B-9. ナラティブレビュー(序章・第6章・その他)
+"A narrative review of energy drinks: from real-time performance enhancement to long-term health consequences and regulatory fragmentation."
+媒体: Cogent Food & Agriculture(Taylor & Francis Online)
+公開年: 2026
+DOI: 10.1080/23311932.2026.2631199
+URL: https://www.tandfonline.com/doi/full/10.1080/23311932.2026.2631199
+用途: 成分解説、AmED、規制の断片化、wide-awake drunkenness
+C. 大学・研究機関の公式リリース
+"A Downside of Taurine: It Drives Leukemia Growth"
+
+媒体: University of Rochester Medical Center (URMC) News
+URL: https://www.urmc.rochester.edu/news/story/a-downside-of-taurine-it-drives-leukemia-growth
+用途: 第3章、ジーヴィーシャ・バジャジ博士によるコメント、化学療法副作用緩和目的のタウリン補給再考
+"Common Energy Drink Additive Could Be Fueling Growth in Leukemia"
+
+媒体: ScienceAlert
+URL: https://www.sciencealert.com/common-energy-drink-additive-could-be-fueling-growth-in-leukemia
+Leukemia Research Foundation公式ポスト
+
+URL: https://www.facebook.com/LeukemiaResearch/posts/(Nature 2025論文の紹介)
+D. 消費者団体・政府機関・公衆衛生資料
+"Caffeine Levels in Energy Drinks Are Risky for Teens."
+
+媒体: Consumer Reports
+公開時期: 2026年春
+URL: https://www.consumerreports.org/health/beverages/caffeine-in-energy-drinks-risky-teens-a2915223215/
+用途: 第14章、2023年に20歳未満のED毒物センター通報20%増、17→23年でER受診倍増
+"Consumer Reports Investigation: Energy drinks risky for teens."
+
+媒体: 29 News
+公開日: 2026年4月13日
+URL: https://www.29news.com/2026/04/13/consumer-reports-investigation-energy-drinks-risky-teens/
+"The Buzz on Energy Drinks — School Nutrition."
+
+媒体: CDC(米疾病予防管理センター)
+URL: https://www.cdc.gov/school-nutrition/energy-drinks/index.html
+用途: 救急受診統計の背景
+"What parents should know about kids and caffeine amid rise in ER visits."
+
+媒体: ABC News(GMA Wellness)
+URL: https://abcnews.com/GMA/Wellness/parents-kids-caffeine-amid-rise-er-visits/story?id=115567472
+"How much caffeine is too much? Poison centers see spike in calls."
+
+媒体: The Hill
+URL: https://thehill.com/homenews/nexstar_media_wire/4889158-how-much-caffeine-is-too-much-poison-centers-see-spike-in-calls-about-kids-energy-drinks/
+"EY Consumer Beverage Survey (Gen Z 53%)."
+
+媒体: EY Newsroom
+公開日: 2026年3月
+URL: https://www.ey.com/en_us/newsroom/2026/03/ey-consumer-beverage-survey
+"Age restrictions on energy drinks by country."
+
+媒体: Wikipedia(2026年1月時点)
+URL: https://en.wikipedia.org/wiki/Age_restrictions_on_energy_drinks_by_country
+用途: 各国規制情勢の俯瞰
+E. 司法・立法関連文書(第13章)
+"Death by Caffeine? In Emerging Trend, Lawsuits Target Energy Drink Companies."
+
+媒体: Law.com / Texas Lawyer
+公開日: 2026年4月14日 09:16
+URL: https://www.law.com/texaslawyer/2026/04/14/death-by-caffeine-in-emerging-trend-lawsuits-target-energy-drink-companies/
+用途: タバコ判例との類似、陪審戦略
+"Family files lawsuit saying high school cheerleader, 17, died from drinking Alani Nu energy drinks."
+
+媒体: WWNY(KRGV)
+公開日: 2026年4月9日
+URL: https://www.wwnytv.com/2026/04/09/family-files-lawsuit-saying-high-school-cheerleader-17-died-drinking-alani-nu-energy-drinks/
+"On behalf of Larissa: Weslaco family grieving teen's death sue popular energy drink Alani."
+
+媒体: MyRGV(The Monitor)
+公開日: 2026年4月10日
+URL: https://myrgv.com/local-news/2026/04/10/on-behalf-of-larissa-weslaco-family-grieving-teens-death-sue-popular-energy-drink-alani/
+"Energy drink contributed to 17-year-old cheerleader's death, says lawsuit."
+
+媒体: Global News
+URL: https://globalnews.ca/news/11773768/energy-drink-death-larissa-rodriguez-lawsuit/
+People Magazine公式Facebookポスト (2026年4月)
+
+URL: https://www.facebook.com/peoplemag/posts/(Texas Cheerleader死亡、$1M訴訟)
+"Energy Drink Settlements — Monster & Red Bull Lawsuit Info" (13件のMonster訴訟)
+
+媒体: ClassAction.com
+URL: https://www.classaction.com/energy-drinks/settlement/
+Frances Milici (UConn Rudd Center) テスティモニー
+
+媒体: Connecticut General Assembly公式議会資料
+日付: 2026年2月24日
+法案: 2026HB-05269
+URL: https://www.cga.ct.gov/2026/kiddata/TMY/2026HB-05269-R000224-Milici, Frances, Director-UConn Rudd Center-Supports-TMY.PDF
+用途: AAP勧告の引用、州レベル規制の動向
+F. 市場・ビジネスメディア(第12章)
+"5 charts showing the changing energy drink landscape."
+
+媒体: C-Store Dive(Goldman Sachs / NielsenIQデータ)
+公開対象期間: 2026年3月7日までの52週
+URL: https://www.cstoredive.com/news/5-charts-energy-drink-landscape/816620/
+用途: 市場規模248億ドル、14%成長、Monster/Red Bull/Celsius/Alani Nu/Bang/Primeの内訳
+"Energy drink sales are soaring — but Red Bull's still fly the highest."
+
+媒体: Sherwood News
+URL: https://sherwood.news/business/energy-drink-sales-are-soaring-but-red-bulls-still-fly-the-highest/
+用途: Red Bull 2025年純売上122億ユーロ
+"Monster Beverage Reports 2025 Fourth Quarter and Full-Year Results."
+
+媒体: Monster Beverage Corporation投資家情報
+URL: https://investors.monsterbevcorp.com/news-releases/news-release-details/monster-beverage-reports-2025-fourth-quarter-and-full-year
+"Energy Drives Convenience Store Growth as Sales Surge 14%."
+
+媒体: IndexBox Blog
+URL: https://www.indexbox.io/blog/energy-drives-convenience-store-growth-as-sales-surge-14/
+"Energy Drinks Market Size, Share (2026-2034)."
+
+媒体: Fortune Business Insights
+URL: https://www.fortunebusinessinsights.com/energy-drinks-market-112182
+"Energy Drinks Market Size & Share Industry Report, 2033."
+
+媒体: Grand View Research
+URL: https://www.grandviewresearch.com/industry-analysis/energy-drinks-market
+"Energy Drinks — Market Share Analysis, Industry Trends & Statistics."
+
+媒体: Research and Markets
+URL: https://www.researchandmarkets.com/reports/4771939/energy-drinks-market-share-analysis-industry
+"Energy Drinks Market Size, Share & Demand Analysis Report by 2034."
+
+媒体: Straits Research
+URL: https://straitsresearch.com/report/energy-drinks-market
+Monster Beverage Corporation ESG・Sustainability公式ページ
+
+URL: https://www.monsterenergy.com/en-us/sustainability/
+URL: https://www.monsterbevcorp.com/sustainability-reports.php
+URL: https://tracenable.com/company/monster-beverage/ghg-emissions (Scope 1/2/3 排出データ)
+用途: 企業側の環境/ESG主張の裏取り
+G. 医学・健康メディア(第6章ほか)
+G-1. 眼圧・緑内障
+"Caffeine and Glaucoma: How Much Is Too Much?"
+
+媒体: Greenwich Eye
+URL: https://greenwicheye.com/article/caffeine-and-glaucoma-how-much-is-too-much/
+"Glaucoma and Coffee: Latest Research."
+
+媒体: Greenwich Eye
+URL: https://greenwicheye.com/article/glaucoma-and-coffee-latest-research/
+"Effects of Caffeine Consumption and Exercise on Intraocular Pressure."
+
+媒体: Glaucoma Australia
+URL: https://glaucoma.org.au/news-details/research/effects-of-caffeine-consumption-and-exercise-on-intraocular-pressure
+"Does Caffeine Increase Eye Pressure and Worsen Glaucoma?"
+
+媒体: Liv Hospital International
+URL: https://int.livhospital.com/does-caffeine-increase-eye-pressure-and-worsen-glaucoma/
+用途: IOP上昇幅1~4mmHg
+"Diet, Exercise, and Lifestyle in Glaucoma: Current Evidence."
+
+媒体: PMC12608359
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12608359/
+G-2. 片頭痛
+"Is Your Favorite Energy Drink Triggering a Monster Attack?"
+
+媒体: Migraine Again
+URL: https://www.migraineagain.com/is-your-energy-drink-triggering-attack/
+用途: 離脱頭痛100mg×7日、1日3杯以上で翌日片頭痛オッズ増
+"How many caffeine servings trigger migraine headaches?"
+
+媒体: Harvard Health Publishing
+URL: https://www.health.harvard.edu/healthy-aging-and-longevity/how-many-caffeine-servings-trigger-migraine-headaches
+"How caffeine can help you manage headaches and other tips."
+
+媒体: BBC News
+URL: https://www.bbc.com/news/articles/cgr44j201rzo
+G-3. 皮膚・ニキビ
+"Dermatologic Effects of Energy and High Protein Drinks."
+媒体: Dermatology Times
+URL: https://www.dermatologytimes.com/view/dermatologic-effects-of-energy-and-high-protein-drinks
+用途: インスリン→mTORC1→ケラチノサイト増殖、IGF-1と皮脂腺
+G-4. 男性不妊関連(第5章補足)
+"Do Energy Drinks Affect Male Fertility?"
+
+媒体: New Hope Fertility Center
+URL: https://www.newhopefertility.com/blog/do-energy-drinks-affect-male-fertility/
+"The Impact of Sugar-Sweetened Beverages on Sperm Health." (PMC12113966)
+
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12113966/
+"How caffeine affects male fertility."
+
+媒体: Legacy
+URL: https://www.givelegacy.com/resources/caffeine-and-male-fertility/
+G-5. 腸内細菌叢・人工甘味料
+"Energy Drinks Have Been Rebranded. But Are They Actually Healthier?"
+
+媒体: AOL (Women's Health転載)
+URL: https://www.aol.com/articles/energy-drinks-rebranded-actually-healthy-100000324.html
+"Energy Drinks Are Back — and These Brands Want Women to Drink Up."
+
+媒体: Women's Health Magazine
+URL: https://www.womenshealthmag.com/food/a70711922/are-energy-drinks-healthy/
+"How energy drinks can impact your gut microbiome."
+
+媒体: FOX Carolina
+公開日: 2025年2月20日
+URL: https://www.foxcarolina.com/video/2025/02/20/how-energy-drinks-can-impact-your-gut-microbiome/
+G-6. マーケティング(第9章・10章)
+"How branding and peer pressure keep kids hooked on energy drinks."
+
+媒体: News-Medical.net
+公開日: 2025年10月28日
+URL: https://www.news-medical.net/news/20251028/How-branding-and-peer-pressure-keep-kids-hooked-on-energy-drinks.aspx
+"TikTok New Rules 2026: What Brands Must Know Now."
+
+媒体: Darkroom
+URL: https://www.darkroomagency.com/observatory/what-brands-need-to-know-about-tiktok-new-rules-2026
+"2026 Advertising Law Predictions Report."
+
+媒体: GALA(Global Advertising Lawyers Alliance)
+URL: https://www.galalaw.com/images/news/pdf/GALA 2026 Advertising Law Predictions.pdf
+H. 個別症例報道(第8章)
+"エナジードリンクが大好きだったジム愛好家、心臓発作を起こし28歳で他界"
+
+媒体: Harper's Bazaar Japan
+URL: https://www.harpersbazaar.com/jp/beauty/health-food/a64334294/energy-drink-loving-gym-goer-28-has-fatal-heart-attack-250401-lift2/
+用途: ケイティ・ドネル事例の主要ソース
+"Super-fit gym queen dies from heart attack at 28."(元英報道)
+
+媒体: Daily Mail
+URL: https://www.dailymail.co.uk/health/article-14530577/energy-drinks-death-heart-attack-superfit-gym-caffeine.html
+"Caffeinated workout queen dies from heart attack at 28."
+
+媒体: New York Post
+公開日: 2025年3月25日
+URL: https://nypost.com/2025/03/25/health/caffeinated-workout-queen-dies-from-heart-attack-at-28/
+I. 日本語/日本の公的情報源(第11章)
+「カフェインの過剰摂取について」
+
+媒体: 農林水産省(Ministry of Agriculture, Forestry and Fisheries)
+URL: https://www.maff.go.jp/j/syouan/seisaku/risk_analysis/priority/hazard_chem/caffeine.html
+用途: 日本にカフェイン摂取基準が無いこと、中毒死例の存在、各国摂取目安
+「食品に含まれるカフェインの過剰摂取についてのQ&A」
+
+媒体: 厚生労働省
+URL: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000170477.html
+「【エナジードリンクの真実】モンスターとレッドブル、日本と本国の違い」
+
+媒体: note.com (note_id_9)
+URL: https://note.com/note_id_9/n/na314648c35db
+用途: 日本版モンスターのカフェイン100mg制限、タウリン→L-アルギニン置換、薬機法の影響
+「『エナジードリンク』と『栄養ドリンク』は一体何が違うのか？」
+
+媒体: GIGAZINE
+公開日: 2015年11月23日
+URL: https://gigazine.net/news/20151123-what-is-energy-drink/
+「エナジードリンクのおすすめ人気ランキング【2026年4月】」
+
+媒体: mybest
+URL: https://my-best.com/6604
+「モンスターエナジーのすべてがわかる総合まとめ」
+
+媒体: EnergyDrinkGeeks
+URL: https://energydrinkgeeks.com/monsterenergysummary/
+「カフェイン入り『エナジードリンク』で糖尿病が悪化 日本でも死亡例」
+
+媒体: 糖尿病ネットワーク(dm-net.co.jp)
+URL: https://dm-net.co.jp/calendar/2016/024601.php
+「カフェイン中毒により5年で3人が死亡」(福岡の事例)
+
+媒体: BuzzFeed Japan
+URL: https://www.buzzfeed.com/jp/seiichirokuchiki/caffeine-addiction
+「死に至る…国立大学の研究者が『まぜるな危険』と警告する"お酒と◯◯"」
+
+媒体: 文春オンライン
+URL: https://bunshun.jp/articles/-/87194?page=1
+J. QT延長・心血管系(第1章〜第2章補強)
+"Energy Drinks: Another Cause of QT Prolongation?"
+
+媒体: Journal of the American Heart Association
+DOI: 10.1161/JAHA.119.012833
+URL: https://www.ahajournals.org/doi/10.1161/JAHA.119.012833
+"The Effects of Energy Drinks on the Cardiovascular System." (PMC12618331)
+
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12618331/
+"Acute effects of energy drink consumption on microvascular reactivity." (PMC11349151)
+
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11349151/
+"Man's extreme energy drink habit leads to concerning medical outcome."
+
+媒体: Fox 13 Seattle
+URL: https://www.fox13seattle.com/news/energy-drink-stroke-study
+K. 運動関連腎障害・横紋筋融解症の追加(第7章)
+"Severe Rhabdomyolysis Due to Strenuous Exercise With a Potential Link to Energy Drink." (PMC8803380)
+
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8803380/
+"Exercise-induced Rhabdomyolysis in a Young Adult after an Intensive Resistance-circuit Workout."
+
+媒体: Quality in Sport(Nicolaus Copernicus University Press)
+URL: https://apcz.umk.pl/QS/article/download/66982/45000/217383
+引用注記と補足
+既存2ファイルで既に引用されていたもの(Mandato et al. 2025 Current Cardiology Reports、『BMJ Case Reports』 2025年12月の50代男性脳卒中例、Case Reports in Cardiology 2025年8月の24歳「ウィドウメーカー」例、The American Journal of the Medical Sciences 2019のトキシック・トライアド症例、JAMA Network OpenのNHS3ノルウェーコホート、Public Health 2024の120万人レビュー、Nutrients 2023レビューなど)は、追記の序章や参照文脈で継承されていますが、ソースの所在はユーザー提供の2ファイル内に既に記されているため、本リストでは重複列挙を省略しています。
